@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "dependencies": {
     "@myscope/p1": "*",
-    "flatstr": "1.0.0",
+    "flatstr": "1.0.5",
     "repeat-string": "1.6.1"
   },
   "scripts": {
